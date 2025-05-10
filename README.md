@@ -50,6 +50,7 @@ WeChat:
 2. convert voice-to-text messages
 3. scan QR-code to add friends
 
+An improvement to the Robinhood trading app I would like to see or build would be to include advanced analytic dashboards with AI-powered insights that allow users to visualize their portfolio performance, market trends, and simulate models based on potential trades. These added features would add another dimension to an already amazing app with great UI/UX features and would also allow users to get more information about how they are investing!
 
 ## Notes
 
