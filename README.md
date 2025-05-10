@@ -25,6 +25,31 @@ The following **required** functionality is completed:
   </div>
 
 ## App Brainstorming (Step 4)
+YouTube:
+1. video preview
+2. picture-in-picture
+3. hold screen to speed up video
+
+Instagram:
+1. holding share post button for post sharing shorcuts
+2. double tap comment to like
+3. bookmark posts
+
+Apple Music:
+1. holding down on a song and creating a radio station based on the song selected
+2. curated playlists based on songs listened to recently
+3. karaoke-styled lyric display
+
+Robinhood:
+1. UI changes from light to dark theme based on hours of the market
+2. sliding up to complete buy/sell transactions
+3. stock watch list
+
+WeChat:
+1. massive gif selection + option to add your own
+2. convert voice-to-text messages
+3. scan QR-code to add friends
+
 
 ## Notes
 
